@@ -1,0 +1,23 @@
+{
+    "name": "creative-exercise-keiraschoolcraft",
+    "version": "1.0.0",
+    "description": "Canvas drawing example with Express.js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cs4241-c25/creative-exercise-keiraSchoolcraft.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cs4241-c25/creative-exercise-keiraSchoolcraft/issues"
+    },
+    "homepage": "https://github.com/cs4241-c25/creative-exercise-keiraSchoolcraft#readme"
+}
